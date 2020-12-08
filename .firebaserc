@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "firestore-event-trriger-sample"
+  }
+}
